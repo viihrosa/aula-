@@ -1,14 +1,176 @@
 form label {
+
 display:block;
- font-size: 20px;
+
+font-size: 20px;
+
 margin: 0 0 10px;
+
+
+
 
 }
 
 
+
+
+
+
+
 form input {
+
 display: block;
-  margin: 0 0 20px; 
-   padding: 10px 25px;
+
+margin: 0 0 10px;
+
+padding: 10px 100px;
+
+
+
+
+}
+
+
+
+
+
+
+
+p{
+
+font-size: 25px;
+
+}
+
+
+
+
+.pagina{
+
+padding: 10px 100px;
+
+margin: 0 0 20px;
+
+background:#000000;
+
+color:Gainsboro;
+
+}
+
+
+
+
+.pagina2{
+
+padding: 10px 100px;
+
+margin: 0 0 20px;
+
+background:#363636;
+
+color:Gainsboro;
+
+}
+
+
+
+
+.pagina3{
+
+padding: 10px 100px;
+
+margin: 0 0 20px;
+
+background:#696969;
+
+color:Gainsboro;
+
+}
+form label {
+
+display:block;
+
+font-size: 20px;
+
+margin: 0 0 10px;
+
+
+
+
+}
+
+
+
+
+
+
+
+form input {
+
+display: block;
+
+margin: 0 0 10px;
+
+padding: 10px 100px;
+
+
+
+
+}
+
+
+
+
+
+
+
+p{
+
+font-size: 25px;
+
+}
+
+
+
+
+.pagina{
+
+padding: 10px 100px;
+
+margin: 0 0 20px;
+
+background:#000000;
+
+color:Gainsboro;
+
+}
+
+
+
+
+.pagina2{
+
+padding: 10px 100px;
+
+margin: 0 0 20px;
+
+background:#363636;
+
+color:Gainsboro;
+
+}
+
+
+
+
+.pagina3{
+
+padding: 10px 100px;
+
+margin: 0 0 20px;
+
+background:#696969;
+
+color:Gainsboro;
 
 }
